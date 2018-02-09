@@ -13,6 +13,8 @@ All you need is to download or clone this project and run the batch file called 
 ATTENTION: if you want to run this project using EclipseIDE or any other compilator, you are going to need to set your library path on the compilador and maybe download TestNG as well.
 ### Run
 Execute run.bat
+### Results
+Into the project files go to the path "\Intive\Intive-FDV\test-output" and open "emailble-report.html".
 ### Made by
 Almer Meza<br />
 08-02-18
