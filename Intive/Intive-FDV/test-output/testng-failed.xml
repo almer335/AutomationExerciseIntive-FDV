@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Test.automationExercise">
+        <methods>
+          <include name="i_am_on_SeleniumHQ_Page"/>
+          <include name="cerraDriver"/>
+          <include name="irABing"/>
+          <include name="Init"/>
+        </methods>
+      </class> <!-- Test.automationExercise -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
